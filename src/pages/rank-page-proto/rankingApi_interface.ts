@@ -10,6 +10,7 @@ export interface Data {
     firstName: string;
     lastName:  string;
     maxHr:     number;
+    position:   number;
 }
 
 export interface Detail {
